@@ -1,16 +1,97 @@
-## Hi there 👋
+# Hi, I'm Hayes (Hayden is fine too) 👋
 
-<!--
-**HaydenDuong/HaydenDuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Computer Science graduate based in Melbourne, Australia.
 
-Here are some ideas to get you started:
+I primarily work with **C#, ASP.NET Core, Python, PostgreSQL, and Docker**, with a growing interest in backend systems, distributed systems, reliability, and how software behaves in production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- 🎓 Bachelor of Computer Science — Deakin University
+- 💻 Backend-focused, with experience building APIs and data-driven applications
+- 🧠 Interested in system design, reliability, distributed systems, and production engineering
+- 🔍 I like understanding *why* systems behave the way they do, not just making them work
+- 🤖 I use AI tools as a learning and review aid, while keeping ownership of the code and engineering decisions
+
+---
+
+## Tech Stack
+
+**Languages**
+
+`C#` `Python` `JavaScript`
+
+**Backend**
+
+`ASP.NET Core` `FastAPI` `Node.js` `Express.js` `REST APIs`
+
+**Data**
+
+`PostgreSQL` `Entity Framework Core` `Prisma` `Redis`
+
+**Infrastructure & Tools**
+
+`Docker` `Docker Compose` `RabbitMQ` `Git` `GitHub` `Postman`
+
+---
+
+## Selected Projects
+
+### 💰 Expense Management API
+Expense tracking backend built with **ASP.NET Core, EF Core, PostgreSQL, JWT, and Docker**.
+
+- JWT authentication with refresh token rotation and revocation
+- User-scoped expense management
+- Filtering, sorting, pagination, and total counts
+- Relational modelling including many-to-many tags
+
+[View repository](https://github.com/HaydenDuong/expense_management_platform)
+
+---
+
+### 🔗 URL Shortener
+Backend service built with **ASP.NET Core, PostgreSQL, Redis, RabbitMQ, and Docker**.
+
+- Unique short-code generation with collision handling
+- Redis caching and cache invalidation
+- Asynchronous analytics using RabbitMQ
+- REST endpoints for redirects, CRUD, and statistics
+
+[View repository](https://github.com/HaydenDuong/url_shortening_service)
+
+---
+
+### 🎫 LottoAI
+Lottery ticket verification prototype built with **FastAPI, PostgreSQL, YOLO, EasyOCR, and Docker**.
+
+- Image processing and OCR pipeline
+- Backend APIs and database integration
+- Lottery result scraping and prize-checking logic
+- JWT and Google OAuth authentication
+
+[View repository](https://github.com/HaydenDuong/lottoai)
+
+---
+
+## What I'm Exploring
+
+I'm currently strengthening my backend engineering fundamentals through:
+
+- Data structures and algorithms
+- System design
+- Distributed systems
+- Cloud and deployment workflows
+- Reliability and production-oriented engineering
+
+---
+
+## Currently
+
+I'm currently looking for **graduate and junior software engineering opportunities**, particularly roles involving backend systems, APIs, infrastructure, or operational software.
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/hayesduong/) • [GitHub](https://github.com/HaydenDuong)
