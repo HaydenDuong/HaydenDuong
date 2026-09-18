@@ -2,7 +2,7 @@
 
 Backend-focused Computer Science graduate based in Melbourne, Australia.
 
-I primarily work with **C#, ASP.NET Core, Python, PostgreSQL, and Docker**, with a growing interest in backend systems, distributed systems, reliability, and how software behaves in production.
+I primarily work with **C#, ASP.NET Core, Python, PostgreSQL, and Docker**, with a growing interest in distributed systems, reliability, and how software behaves in production.
 
 ---
 
@@ -74,7 +74,7 @@ Lottery ticket verification prototype built with **FastAPI, PostgreSQL, YOLO, Ea
 
 ---
 
-## Currently learning more about
+## What I'm Learning
 
 - Data structures and algorithms
 - System design and distributed systems
